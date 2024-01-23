@@ -15,6 +15,7 @@ namespace WindowsFormsApp23
         public Form1()
         {
             InitializeComponent();
+            //chinhsua cai gi do
         }
     }
 }
